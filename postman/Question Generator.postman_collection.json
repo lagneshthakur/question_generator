@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "57ccfd1e-8706-46f4-af21-d00b6d947073",
+		"name": "Question Generator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19044245"
+	},
+	"item": [
+		{
+			"name": "Generate Questions",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/generate_questions?text=Fortnite is a video game that came out between 2017-2018. The video game has grown popular over the past couple months. Every young male has bought fortnite for their game system. They play the game like it’s a ritual. There’s nothing a person can do to get them off the game. I believe it brainwashes people because they play the game for hours through a day. It has basically trumped all the other video games. I never seen such a wide range of young males play a game like Fortnite for so long. There are some older males that play the video game as well. It is a video game that most teens play with their group of friends. I believe that they it is sin because they don’t stop not one second to recognize God and thank him for waking them up in the morning. They play the game more than they pray to God or say anything to God. Not acknowledge God for doing the things his does for humankind on a regular is to me a sin. They are getting their pleasure out the game. Which is wrong, you could play the game for like an hour. Most kids that play the game aren’t doing to well in school. They don’t care  as long as they are playing the new hip game that everyone is playing.",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"generate_questions"
+					],
+					"query": [
+						{
+							"key": "text",
+							"value": "Fortnite is a video game that came out between 2017-2018. The video game has grown popular over the past couple months. Every young male has bought fortnite for their game system. They play the game like it’s a ritual. There’s nothing a person can do to get them off the game. I believe it brainwashes people because they play the game for hours through a day. It has basically trumped all the other video games. I never seen such a wide range of young males play a game like Fortnite for so long. There are some older males that play the video game as well. It is a video game that most teens play with their group of friends. I believe that they it is sin because they don’t stop not one second to recognize God and thank him for waking them up in the morning. They play the game more than they pray to God or say anything to God. Not acknowledge God for doing the things his does for humankind on a regular is to me a sin. They are getting their pleasure out the game. Which is wrong, you could play the game for like an hour. Most kids that play the game aren’t doing to well in school. They don’t care  as long as they are playing the new hip game that everyone is playing."
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Generate Question",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

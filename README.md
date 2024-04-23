@@ -59,6 +59,11 @@ Remember to start the Flask app before making requests with Postman. Refer to th
 
 Happy testing!
 
+![CleanShot 2024-04-23 at 10 56 16@2x](https://github.com/lagneshthakur/question_generator/assets/13376802/f9ae2d0e-10f3-47bc-b35b-4373cd1d4d35)
+
+![CleanShot 2024-04-23 at 10 56 46@2x](https://github.com/lagneshthakur/question_generator/assets/13376802/8610dc59-08b6-4b98-a371-8d30fbabe9ad)
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
